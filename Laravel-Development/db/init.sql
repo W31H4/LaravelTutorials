@@ -1,0 +1,1 @@
+-- Script for initialize database if is required
